@@ -43,7 +43,7 @@ Podemos __*misturar*__ as configurações. Para fazer negrito e itálico utilize
 
 ## LISTA DE TAREFAS
 
-- [] atividade 1
+- [x] atividade 1
 - [] atividade 2
-- [] atividade 3
+- [x] atividade 3
 - [] atividade 4
