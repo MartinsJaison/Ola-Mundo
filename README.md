@@ -28,5 +28,5 @@ Podemos __*misturar*__ as configurações. Para fazer negrito e itálico utilize
 
 1. teste
 1. teste (dá para colocar apenas um número e ponto. o acréscimo de numerais conforme a lista ocorrera automáticamente)
-  1. com dois espaço adicionamos um subnível
-    1. 
+   1. com três espaço adicionamos um subnível
+    1. teste
