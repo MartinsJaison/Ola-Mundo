@@ -30,3 +30,20 @@ Podemos __*misturar*__ as configurações. Para fazer negrito e itálico utilize
 1. teste (dá para colocar apenas um número e ponto. o acréscimo de numerais conforme a lista ocorrera automáticamente)
    1. com três espaço adicionamos um subnível
     1. teste
+
+
+## LISTA DEMARCADAS
+
+* teste
+* teste
+   * teste
+* teste
+* teste
+
+
+## LISTA DE TAREFAS
+
+- [] atividade 1
+- [] atividade 2
+- [] atividade 3
+- [] atividade 4
