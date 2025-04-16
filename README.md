@@ -67,9 +67,17 @@ Não entendo direito para que serve o comando`document.getElementById()`da lingu
 exemplo 2 (três crases):
 Olha meu programa em Python
 
-```
+``` 
 num = int(input('Digite um valor: '))
 if num % 2 == 0:
     print(f'O valor de {num} é PAR.')
-    
+
 ```
+
+# Emojis
+
+Olá, pequeno gafanhoto :vulcano-salute
+
+
+
+
