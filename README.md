@@ -53,3 +53,8 @@ Podemos __*misturar*__ as configurações. Para fazer negrito e itálico utilize
 NUM | NOME | NOTA
 --- | --- | ---
 1 | JAISON | 8.5
+2 | JOSÉ | 10.0
+3 | MARIA  8.2
+
+Fim da tabela
+
