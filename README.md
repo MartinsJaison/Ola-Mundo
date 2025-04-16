@@ -76,7 +76,7 @@ if num % 2 == 0:
 
 # Emojis
 
-Olá, pequeno gafanhoto :vulcano_salute :hand
+Olá, pequeno gafanhoto :vulcano_salute: :hand:
 
 
 
