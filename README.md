@@ -10,7 +10,7 @@ Essa linha eu adicionei diretamente no site! QUE IMPRESSIONANTE!
 
 # Título primeiro nível
 
-## ítulo segundo nível
+## Título segundo nível
 
 Estou aprendendo linguagem **Markdowm**
 
@@ -47,3 +47,9 @@ Podemos __*misturar*__ as configurações. Para fazer negrito e itálico utilize
 - [] atividade 2
 - [x] atividade 3
 - [] atividade 4
+
+# TABELAS
+
+NUM | NOME | NOTA
+--- | --- | ---
+1 | JAISON | 8.5
