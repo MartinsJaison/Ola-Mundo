@@ -58,3 +58,18 @@ NUM | NOME | NOTA
 
 Fim da tabela
 
+# monoespaçado
+
+Colocamos entre aspas para citar código ou parte de códigos:
+exemplo 1(uma crase):
+Não entendo direito para que serve o comando`document.getElementById()`da linguagem JavaScript
+
+exemplo 2 (três crases):
+Olha meu programa em Python
+
+```
+num = int(input('Digite um valor: '))
+if num % 2 == 0:
+    print(f'O valor de {num} é PAR.')
+    
+```
